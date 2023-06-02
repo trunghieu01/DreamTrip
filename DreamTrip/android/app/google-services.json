@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "985937528918",
+    "firebase_url": "https://tourapp-d8ea8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tourapp-d8ea8",
+    "storage_bucket": "tourapp-d8ea8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985937528918:android:3ab8cd5ea877a9e28c93f7",
+        "android_client_info": {
+          "package_name": "com.dreamtrip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985937528918-hmel5601l44mn38fs5tabardr28sqd6p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dreamtrip",
+            "certificate_hash": "a1dc611989ae65b49031e55bf97a8daeef1a765f"
+          }
+        },
+        {
+          "client_id": "985937528918-gbpr615u4ihuoi6h6les42r4p2144pj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLQ4GaTx9FyY8DxaIAqlrPKOrZOiZzCWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985937528918-gbpr615u4ihuoi6h6les42r4p2144pj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
